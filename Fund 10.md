@@ -1,4 +1,4 @@
-Fund10
+**Fund10**
 
 Welcome to Project Catalyst Fund10. We’re glad you’re considering becoming a part of the world’s largest decentralized innovation platform. This guide will tell you everything you need to get started.
 
@@ -14,6 +14,7 @@ In addition to the ‘Catalyst Open’ proposal category, Fund10 also introduces
 * **Updates to ProjectCatalyst.io** - including an area for documentation 
 
 **Where to find Project Catalyst?**
+
 To submit a Proposal:
 http://cardano.ideascale.com/
 
