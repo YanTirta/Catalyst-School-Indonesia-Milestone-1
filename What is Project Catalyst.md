@@ -19,7 +19,7 @@ Over the last ten funds, the Catalyst team has put great effort into creating a 
 * **Execution** - Selected projects receive funding upon completion of milestones. They are given guidance and mentorship to deliver on their proposals, and regular reports are made to the community to ensure everything goes according to plan.
 
 **How Can I Participate?**
-* ​**[Proposers]**(https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propose new ideas for a shot at winning funding
+* ​[Proposers](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propose new ideas for a shot at winning funding
 * [Community Reviewers](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews) - Provide opinions and help guide voters through submitted proposals.
-* Challenge Teams - Maximize impact by framing problems and defining success
-* Voters - Decide on the future of Cardano by deciding which proposals receive funding
+* **Challenge Teams** - Maximize impact by framing problems and defining success
+* **Voters** - Decide on the future of Cardano by deciding which proposals receive funding
