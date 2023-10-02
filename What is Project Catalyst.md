@@ -11,7 +11,7 @@ Innovation - Each participant responds to community-generated challenges with th
 Governance - Participants register to vote on the proposals they wish to see funded. A tally occurs once the voting period ends before verifiable results are shared.
 Execution - Selected projects receive funding upon completion of milestones. They are given guidance and mentorship to deliver on their proposals, and regular reports are made to the community to ensure everything goes according to plan.
 How Can I Participate?
-​ - Propose new ideas for a shot at winning funding
-​ - Provide opinions and help guide voters through submitted proposals.
+​[Proposers](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propose new ideas for a shot at winning funding
+​[Community Reviewers](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews) - Provide opinions and help guide voters through submitted proposals.
 Challenge Teams - Maximize impact by framing problems and defining success
 Voters - Decide on the future of Cardano by deciding which proposals receive funding
