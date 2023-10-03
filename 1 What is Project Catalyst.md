@@ -1,6 +1,6 @@
 **What is Project Catalyst**
 
-Project Catalyst is the world’s largest decentralized innovation engine for solving real-world challenges.
+>Project Catalyst is the world’s largest decentralized innovation engine for solving real-world challenges.
 
 Introducing Project Catalyst, Cardano's revolutionary innovation engine and one of the world's most significant decentralized grant funds. Project Catalyst propels collaborative innovation to new heights and fuels Cardano ecosystem expansion by connecting people with groundbreaking ideas to a funding source, collaborating with and voted for by the Cardano community, and spearheaded by the Cardano treasury.
 
