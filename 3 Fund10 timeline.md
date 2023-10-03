@@ -1,6 +1,6 @@
-**Fund10 timeline**
+# **Fund10 timeline**
 
-Given the dynamic nature of Project Catalyst, the following dates may change as the fund progresses. If this is the case, we will notify the community via our announcement channels on Discord and Telegram.
+>Given the dynamic nature of Project Catalyst, **the following dates may change as the fund progresses.** If this is the case, we will notify the community via our announcement channels on Discord and Telegram.
 
 **June 21st 2023 · 17:00 UTC**
 Fund10 launches at Town Hall #131
