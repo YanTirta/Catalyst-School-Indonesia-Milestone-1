@@ -15,20 +15,16 @@ In addition to the ‘Catalyst Open’ proposal category, Fund10 also introduces
 
 ### **Where to find Project Catalyst?**
 
-To submit a Proposal:
-
+To submit a Proposal:&nbsp;  
 http://cardano.ideascale.com/
 
-For all things Catalyst:
-
+For all things Catalyst:&nbsp;  
 ​https://projectcatalyst.io/
 
-For Announcements only:
-
+For Announcements only:&nbsp;  
 ​https://t.me/cardanocatalyst
 
-Please subscribe to the Catalyst mailing list:
-
+Please subscribe to the Catalyst mailing list:&nbsp;  
 ​https://bit.ly/3dSZJvx
 
 Join the world’s largest Decentralized Innovation Fund and become a part of the Project Catalyst Community!
