@@ -12,13 +12,13 @@ Over the last ten funds, the Catalyst team has put great effort into creating a 
 * Decentralized team building. Great innovation comes from great teams. Many of our most impactful projects come from teams who met while becoming a part of Project Catalyst.
 * Group refinement and execution. We see a significant improvement in the quality of proposals after the community weighs in with their constructive criticism.
 
-**How Does Project Catalyst Work?**
+### **How Does Project Catalyst Work?**
 
 * **Innovation** - Each participant responds to community-generated challenges with their ideas during this phase. Brainstorming leads to conceptualization, community feedback, and then finalized proposals.
 * **Governance** - Participants register to vote on the proposals they wish to see funded. A tally occurs once the voting period ends before verifiable results are shared.
 * **Execution** - Selected projects receive funding upon completion of milestones. They are given guidance and mentorship to deliver on their proposals, and regular reports are made to the community to ensure everything goes according to plan.
 
-**How Can I Participate?**
+### **How Can I Participate?**
 * ​[Proposers](https://docs.projectcatalyst.io/catalyst-basics/how-to-submit-a-proposal) - Propose new ideas for a shot at winning funding
 * [Community Reviewers](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews) - Provide opinions and help guide voters through submitted proposals.
 * **Challenge Teams** - Maximize impact by framing problems and defining success
