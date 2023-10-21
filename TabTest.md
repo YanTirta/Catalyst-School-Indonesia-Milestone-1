@@ -1,17 +1,15 @@
-## Results {.tabset}
+### Comparing Diamond Prices by Carat Across Different Cut Qualities {.tabset} 
 
-### Plots
+#### Fair
 
-We show a scatter plot in this section.
+ggplot(diamonds %>% filter(cut == 'Fair'), aes(x = carat)) +
 
-```{r, fig.dim=c(5, 3)}
-par(mar = c(4, 4, .5, .1))
-plot(mpg ~ hp, data = mtcars, pch = 19)
-```
+  geom_point(aes(y = price, col = color)) +
 
-### Tables
+  labs(x = '\nCarat',
 
-We show the data in this tab.
+       y = 'Price (USD $)\n',
 
-```{r}
-head(mtcars)
+       col = 'Color') +
+
+  theme_bw()
