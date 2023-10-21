@@ -6,9 +6,9 @@ General note: Write your proposal in simple, ordinary language, that a non-speci
 
 
 ### **Associated Resources**
-* Fund10 Timeline
-* Fund10 Launch Guide
-* Fund Rules
-* Community Review Guidelines
-* Telegram chat for Catalyst Proposers
-* Join Catalyst Discord here and visit this channel for Catalyst Proposers
+* [Fund10 Timeline](https://docs.projectcatalyst.io/catalyst-basics/fund10/fund10-timeline)
+* [Fund10 Launch Guide](http://bit.ly/CatF10LFG)
+* [Fund Rules](https://docs.projectcatalyst.io/legal/fund-rules)
+* [Community Review Guidelines](https://docs.projectcatalyst.io/catalyst-basics/how-to-participate-in-community-reviews)
+* [Telegram chat for Catalyst Proposers](https://t.me/catalystproposers)
+* [Join Catalyst Discord here](https://discord.gg/Rjkb4Y2YaX) and visit [this channel for Catalyst Proposers](https://discord.com/channels/756943420660121600/903955890254802974)
