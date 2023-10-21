@@ -8,8 +8,7 @@ Community Reviewers will score each proposal between 1-5 for each of the three c
 1. IMPACT
 2. FEASIBILITY / CAPABILITY
 3. RESOURCES & VALUE FOR MONEY
-
-
+<p>&nbsp;</p>
 >PLEASE NOTE: Do not assume that every Community Reviewer has technical or subject matter expertise.  
 ​
 ​
