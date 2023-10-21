@@ -32,8 +32,29 @@ This table summarizes main parameters to be used.
 ||Rewards Parameters
 |B1|Proposal Funding logic (winner selection rule)|Fuzzy threshold voting, proposals are ranked by the difference of Yes and No votes and funded one by one until challenge budget is exhausted|Proposals are ranked by sum of votes and funded in order. If the amount requested by a  proposal is larger than the remaining challenge amount, it is skipped
 |B2|Proposal acceptance threshold|1% of total voting power<p>&nbsp;</p>15% more ‘Yes’ than ‘No’|At least 1% of the total registered stake must vote on a proposal<p>&nbsp;</p>E.g., there is 1 billion ADA as a total registered stake. To be accepted (become an ‘approved proposal’ as well as be eligible for funding), a proposal must be voted by at least 0.01 * (1 * 10^9) = 10 millions of ADA<p>&nbsp;</p>'Yes'-'No' difference of the stake voted on proposal must be at least 15%.<p>&nbsp;</p>Formula: (YES-NO)/(YES+NO) > 0.15<p>&nbsp;</p>(e.g., 90% 'Yes' and 10% 'No', or 57.6% 'Yes' and 42.4% 'No', or 100% 'Yes' and 0% 'No', etc.; it is assumed that abstained stake does not vote on the proposal in the current architecture
-|B3|Voting options and Funding logic in Catalyst Operations category|Yes/Abstain<p>&nbsp;</p>‘No’ option<p>&nbsp;</p>No thresholds|The winner is determined by the highest ‘Yes’ vote only
-|B4|Vrtotal|2.50%<p>&nbsp;</p>₳1,250,000|Voter Rewards<p>&nbsp;</p>Rewards are received by casting votes
-|B5|Artotal|2.50%<p>&nbsp;</p>₳1,250,000|Community Review Rewards<p>&nbsp;</p>LV0 (20% of share)<p>&nbsp;</p>LV1 (80% of share)
-|B6|AArtotal|0.40%<p>&nbsp;</p>₳200,000|Community Moderator Rewards<p>&nbsp;</p>LV2 (up to ₳5 ada for each review check)
-|B7|Cttotal|0.22%<p>&nbsp;</p>₳110,000<p>&nbsp;</p>₳10,000 per CT<p>&nbsp;</p>30% (₳3,000) Deliverable 1&nbsp;  70% (₳7,000) Deliverable 2|Challenge Team rewards paid for:<p>&nbsp;</p>- Deliverable 1: Introducing the challenge during F10 launch<p>&nbsp;</p>- Deliverable 2: Onboarding FPs and conducting PoL verification
+|B3|Voting options and Funding logic in Catalyst Operations category|Yes/Abstain<br>‘No’ option<p>&nbsp;</p>No thresholds|The winner is determined by the highest ‘Yes’ vote only
+|B4|Vrtotal|2.50%<br>₳1,250,000|Voter Rewards<p>&nbsp;</p>Rewards are received by casting votes
+|B5|Artotal|2.50%<br>₳1,250,000|Community Review Rewards<br>LV0 (20% of share)<br>LV1 (80% of share)
+|B6|AArtotal|0.40%<br>₳200,000|Community Moderator Rewards<p>&nbsp;</p>LV2 (up to ₳5 ada for each review check)
+|B7|Cttotal|0.22%<br>₳110,000<p>&nbsp;</p>₳10,000 per CT<p>&nbsp;</p>30% (₳3,000) Deliverable 1<br>70% (₳7,000) Deliverable 2|Challenge Team rewards paid for:<p>&nbsp;</p>1. Deliverable 1: Introducing the challenge during F10 launch<p>&nbsp;</p>2. Deliverable 2: Onboarding FPs and conducting PoL verification
+|B8|Pam|1.20%<br>₳600,000<p>&nbsp;</p>Breakdown:<br>0.40% ₳200,000 for<br>Project < ₳150,000<br>- ₳200 per Milestone PoA<p>&nbsp;</p>0.80% ₳400,000 for<br>Project > ₳150,000<br>- ₳300 per Milestone PoA|Project Accountability Management Rewards<p>&nbsp;</p>Rewarding Community Reviewer help to verify:<br>1. Statement of Milestones (SoM)<br>2. Milestone Proof of Achievement<p>&nbsp;</p>[1] Funded projects will submit to Catalyst a Statement of Milestones<p>&nbsp;</p>SoM is verified by at least 2 community reviewers and rewarded ada for their work.<p>&nbsp;</p>[2] PoA conducted by a reviewer representative. PoA incentive is paid to reviewers.<p>&nbsp;</p>Where proposals are over ₳200,000 reviews must be conducted by 2 separate reviewers.<p>&nbsp;</p>Maximum reward is ₳200/₳300 each for 2 reviewers to carry out PoA.   
+|B9|Voter Rewards Formula|Vrj=stakejstaketotalVrtotal|Voter rewards will be given for active participants only in proportion to the voting power voters have.<p>&nbsp;</p>stakej - voter’s stake;<br>staketotal - total amount of ‘active’ stake.
+|B10|Community Review  LV0 reward formula|0.5%<br>₳250,000<p>&nbsp;</p>% Share of rewards taken from 20% of the allocated budget<p>&nbsp;</p>Maximum ₳17 per review  
+|B11|Community Review LV1 reward formula / $ price per LV1 Community reviewer reward |2%<br>₳1,000,000<p>&nbsp;</p>₳33 per review taken from 80% of the allocated  budget|A simple price paid per review 2% of total budget
+|B12|Community Review LV2 (Community Moderators) reward formula / $ per Lv2 reward|0.4%<br>₳200,000<p>&nbsp;</p>Maximum ₳5 per LV2 flagged review check
+|B13|# of LV1 reviews that will be rewarded in a round|10-80 Reviews per LV1 Community Reviewer are rewarded under this parameter|A limit to how much an individual LV1 can be rewarded for their allocation in a single funding round.<p>&nbsp;</p>Minimum rewards threshold is ₳330 in ada for 10 reviews. Any number of reviews under this amount will not be rewarded.<p>&nbsp;</p>Any reviews above the threshold allocation number (80) will be included into the LV0 pot
+| |Back-End Parameters| | |
+|C1|Direct Voting privacy state|Yes|Are votes private?
+|C2|Funds under control|50,000,000 ada|Fund will Control 50M ada
+|C3|Voting power threshold|450,000,000 lovelace.<br>(450 ada)<p>&nbsp;</p>Communicate threshold as 500 to account for tx fees|Minimal stake threshold to become a voter, based on the efficiency benchmarks of the voting protocol.<p>&nbsp;</p>Specific value of the voting stake threshold will be defined by the protocol benchmarks.<p>&nbsp;</p>Note that threshold must be lowered by 50 ada from the amount stated to the community to address registration fees.
+|C4|current_fund_name|Fund10|
+|C5|current_insight_sharing_start|Jun 22, 2023|
+|C6|current_proposal_submission_start|Jun 22, 2023|
+|C7|current_refine_proposals_start|Jun 22, 2023|
+|C8|current_finalize_proposals_start|Jul 13, 2023|
+|C9|current_proposal_assessment|Jul 20, 2023|
+|C10|current_assessment_qa_start|Aug 10, 2023|
+|C11|current_snapshot_start|Aug 18, 2023|
+|C12|current_voting_start|Aug 31, 2023| 
+|C13|current_voting_end|Sep 14, 2023|
+|C14|current_tallying_end|Sep 18, 2023|
