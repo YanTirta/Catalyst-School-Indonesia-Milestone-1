@@ -9,7 +9,8 @@ Community Reviewers will score each proposal between 1-5 for each of the three c
 2. FEASIBILITY / CAPABILITY
 3. RESOURCES & VALUE FOR MONEY
 
-PLEASE NOTE: Do not assume that every Community Reviewer has technical or subject matter expertise.  
+
+>PLEASE NOTE: Do not assume that every Community Reviewer has technical or subject matter expertise.  
 ​
 ​
 Elements to consider when submitting your idea
