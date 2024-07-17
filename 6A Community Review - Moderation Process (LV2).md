@@ -1,5 +1,6 @@
 # **Community Review - Moderation Process (LV2)**
-https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1WSgbrgHqq5E9Mh8hoBn%2Fuploads%2FAW0bPA40uZ36OiGYVFBD%2FCommunity%20Review%20Stage%20-%20LV2%20Reviewers.mp4?alt=media&token=cf7105bf-8ebd-4db3-a5f9-8015a176cc09
+[![Video Title](https://img.youtube.com/vi/a1bjsu5auuI/0.jpg)](https://www.youtube.com/watch?v=a1bjsu5auuI)
+
 All Community Reviewers' reviews will be subject to an automated review process using Catalyst Flags. Catalyst Flags are pieces of code known as scripts that are run to analyze all reviews by the Community Reviewers. Catalyst scripts will raise flags in case of:
 * **Length** ~ blank reviews and reviews containing less than 150 characters in any impact, feasibility, and value-for-money criteria
 * **Similarity** ~ reviews which are identical or almost identical to a previously submitted review 
