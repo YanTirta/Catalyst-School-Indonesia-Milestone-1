@@ -1,7 +1,7 @@
 # **How to become a Community Reviewer?**
 ### This page explains the steps and key information to join the Community Review stage
 
-### LV0 - New Community Reviewers
+### **LV0 - New Community Reviewers**
 * Community reviewers must register and carry out reviews using Ideascale. 
 * Community reviewers will be asked to specify which challenges they would prefer to work on
 * Community reviewers will receive an email confirming their registration has been accepted and must read through the guidance documentation provided 
@@ -13,7 +13,7 @@
 * Once voting has concluded, the rewards calculations for all reviewers (LV0-LV2) are prepared
 * Community Reviewer rewards will be distributed at the earliest possible opportunity 
 
-### LV1 - Experienced Community Reviewers 
+### **LV1 - Experienced Community Reviewers** 
 * Experienced Community Reviewers  must follow the same guidance and steps as LV0 Community Reviewers noting that after Step3 above, LV1 community reviewers will have the following additional steps.  
 * Catalyst will generate a random allocation of proposals to be reviewed for eligible LV1 and LV0 reviewers. Allocations are private and sent to reviewers securely via email. Reviews of allocated proposals will be rewarded at a fixed rate per review for LV1 and at a variable rate per review for LV0 determined by the number of reviewers participating and total reviews published. 
 * LV1 Community reviewer allocations are based on the challenge preferences selected during the registration process. While LV1s are able to review any proposal, the higher rewards will be paid for the review of proposals identified in the allocation. 
